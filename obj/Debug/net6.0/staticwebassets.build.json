@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6S2cgbwReAEzgO6RFRFKqm4RGj9YFxmdrE/o73nH/xE=",
+  "Source": "mobilus-test-api",
+  "BasePath": "_content/mobilus-test-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
